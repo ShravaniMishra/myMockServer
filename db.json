@@ -9,23 +9,18 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
-    }
-  ],
-  "admin":[
+    },
     {
       "email":"admin@gmail.com",
       "password":"masaiSchool"
-    }
-],
-"users":[
-    
-        {
+    },
+      {
             "username":"shravani",
             "email":"user@gmail.com",
             "password":"user"
            
-          }
+        }
 
     
-]
+        ]
 }
