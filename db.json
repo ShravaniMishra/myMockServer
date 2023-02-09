@@ -9,6 +9,56 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Random book 1",
+      "author": "RAKESH SIR",
+      "genre": "science",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 299,
+      "borrowed": true
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Random book 3",
+      "author": "J. K. Rowling",
+      "genre": "tech",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 499,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Random book 4",
+      "author": "J. K. Rowling",
+      "genre": "science",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 599,
+      "borrowed": true
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Random book 5",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1099,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Random book 6",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1089,
+      "borrowed": false
     }
   ]
 }
